@@ -1,4 +1,4 @@
-# 🌍 **Descentralizando a Informação - Projeto Social** 🚀
+# 🌍 **Centralizando a Informação - Projeto Social** 🚀
 
 Um projeto social inspirado nos ideais de **Aaron Swartz**, com o objetivo de descentralizar informações essenciais sobre **saúde**, **política**, **leis** e muito mais, garantindo que **todos** tenham acesso livre e igualitário a dados confiáveis e atualizados. 📚💡
 
