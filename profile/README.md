@@ -51,7 +51,7 @@ O projeto utiliza plataformas descentralizadas, alimentadas por **APIs públicas
 
 ## 📜 **Licença**
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE), permitindo que qualquer pessoa use, modifique e distribua o código. ⚖️
+Este projeto é licenciado sob a [CCO](LICENSE), permitindo que qualquer pessoa use, modifique e distribua o código. ⚖️
 
 ## 📬 **Contato**
 
